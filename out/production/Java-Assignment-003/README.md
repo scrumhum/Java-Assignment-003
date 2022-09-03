@@ -36,18 +36,7 @@ java.nio.file.Path;
 1. Screenshot the map and add it into the **images** folder of this project,
 1. Last add image markdown below this line to load your map image.
 
-## PART 3 - Code Scanning and Interpretation
-* Look at the getHiddenSecrets method and identify the following parts:
-    * What is the access modifer (public, private, protected)?
-    * Is it a Class method or an object Instance method, how do you know?
-    * What is its return data-type?
-    * Does it require any parameters, and if so, how many and of what type?
-* Scan line by line through the code and try to determine how it works?
-    * What is familiar to you?
-    * What is not familiar to you?
-    * Do the **for** loops make sense, and if so, tell me what you think they do?
-
-## PART 4 - Turn in
+## PART 3 - Turn in
 ### Same as the last 2 Weeks!
 * When completed, use your IDE to commit your Fall-2022 branch back to your GitHub Account's, Java-Assignment-003/Fall-2022 repo/branch.
 * From your GitHub account's branch's page, issue a New pull request from your *Fall-2022* branch to the instructor's *Fall-2022* branch and save the *Pull Request URL*.

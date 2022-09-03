@@ -2,11 +2,11 @@
 ### Input, Packages, Imports, and a static Method
 ## PART 1 - Build an External Package
 1. Watch the below linked video, and follow along on how we build a **Java Archive** artifact (**jar**) from a GitHub project.
-[Jar file build from GitHub Project](https://redwoods.us-west-2.instructuremedia.com/lti-app/embed/perspective/tpnq24a_SVjKuwRKwEkLDQ)
+[Jar file build from GitHub Project](https://pdx.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVRKb0U0RGFRUmRkUVFDYkNzSG9QNFVZdz09LS1hYTBhODRlOWU5NTdkMzljZDU4ZThiM2Y1N2RmNDZhMmI4NGUxMmM0.mp4)
 1. If you didn't already, attempt to build the artifact, **the jar file** yourself!
 [MetaData Extractor Code on GitHub](https://github.com/drewnoakes/metadata-extractor)
 1. Watch the below linked video, and follow along to import an external **jar** file into your project!
-[Import External Jar into your Project](https://redwoods.us-west-2.instructuremedia.com/lti-app/embed/perspective/i2qdIV3HF6vm8AsTENHhgw)
+[Import External Jar into your Project](https://pdx.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVM0b1U0RGFRVGJkUVFDYkNzSEJmOFVZdz09LS0yYWY5NmMwYzM2MDA0ZGY5YTAzNTQ0NjM0ZTNmYWI2NTk4ZGMyYjRk.mp4)
 1. If your artifact creation step was successful, see if you can import your build of the metadata jar file into Java-Assignment-003 after you start PART 2 below!
 
 ## PART 2 - Implementation

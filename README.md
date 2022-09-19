@@ -38,15 +38,21 @@ java.nio.file.Path;
 
 ## PART 3 - Code Scanning and Interpretation
 * Look at the getHiddenSecrets method and identify the following parts:
-    * What is the access modifer (public, private, protected)?
-    * Is it a Class method or an object Instance method, how do you know?
-    * What is its return data-type?
-    * Does it require any parameters, and if so, how many and of what type?
+    * What is the access modifer (public, private, protected)? -Public
+    * Is it a Class method or an object Instance method, how do you know? 
+    * -object instance method because I used a scanner object instance to read the string
+    * What is its return data-type? -void
+    * Does it require any parameters, and if so, how many and of what type? -file
 * Scan line by line through the code and try to determine how it works?
     * What is familiar to you?
+    * -I see that the scanner read the string, and then I used the oath to grab the input from the file path/
+    * -The path calls a method that converted it to the file type declared, which was declared earlier when getHiddensecrets was declared as a method? 
     * What is not familiar to you?
+    * -I think its making sense to me but iI also feel like I am using these terms slightly incorrectly.
+    * -Also, I cant for the life of me find these exact coordinates on Google anything
+    * -Definitely some user error going on but I found a close-ish location 
     * Do the **for** loops make sense, and if so, tell me what you think they do?
-
+loops are used to repeat a block of code 
 ## PART 4 - Turn in
 ### Same as the last 2 Weeks!
 * When completed, use your IDE to commit your Fall-2022 branch back to your GitHub Account's, Java-Assignment-003/Fall-2022 repo/branch.
